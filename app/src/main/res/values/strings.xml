@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Coinectus</string>
+
+    <!--CardView-->
+    <string name="tranjection_id">Id :</string>
+    <string name="time">Time :</string>
+    <string name="amount">Amount :</string>
+    <string name="reason">Reason :</string>
+
+    <!--Get Amount-->
+    <string name="title">Get Amount</string>
+    <string name="get_btn">Get</string>
+</resources>
